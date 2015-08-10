@@ -1,7 +1,7 @@
 # helm
 Matlab implementation for a fast random mapping based auto-encoder.
 
-The demo consists of two parts: source codes and data. And the data includes testing datasets (MNIST and NORB) and random matrices.
+The demo consists of two parts: source codes and data. And the data includes testing datasets (MNIST and NORB) and random matrices. (Please download the data part with this link: https://goo.gl/KRztRU)
 
 To use these codes, you can simply unzip all files into the same path and then run the "demo_MNIST.m" and "demo_NORB.m".
 
