@@ -9,8 +9,8 @@ load lecun.mat;
 % Due to the random initialization of neural networks, it is very common to see that the performance has fluctuations. 
 % To reproduce the exact same testing results in our paper, please use the attached .mat file obtained by following codes:
 
-% rand('state',16917921)   5000
-% rand('state',67797325)   12000
+% rand('state',16917921)   % 5000
+% rand('state',67797325)   % 12000
 % b1=2*rand(size(train_x,2)+1,N1)-1;
 % b2=2*rand(N1+1,N2)-1;
 % b3=orth(2*rand(N2+1,N3)'-1)';
